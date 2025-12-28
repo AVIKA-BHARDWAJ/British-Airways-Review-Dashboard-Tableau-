@@ -1,4 +1,4 @@
-# British-Airways-Review-Dashboard-Tableau-
+# British-Airways-Review-Dashboard-Tableau
 This project was created as a hands-on Tableau practice dashboard to improve my skills in data visualization, interactivity, and time-series analysis.
 The dashboard analyzes British Airways customer reviews across multiple dimensions such as:
 Aircraft type
