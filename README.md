@@ -30,3 +30,4 @@ Yearly trend analysis with proper time aggregation
 
 📌 Note
 This project is intended for learning and practice purposes and reflects my progress in understanding Tableau fundamentals and dashboard design.
+<img width="1510" height="737" alt="image" src="https://github.com/user-attachments/assets/f8980da3-993e-4e5f-a19c-ff681f9bb65f" />
